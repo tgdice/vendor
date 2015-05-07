@@ -1,0 +1,11 @@
+{
+    "name": "tgdice/vendor",
+    "description": "This is simply a placeholder so that I can claim my packagist vendor name",
+    "authors": [
+        {
+            "name": "Jose A Duarte",
+            "email": "jaduarte@tgdice.com"
+        }
+    ],
+    "require": {}
+}
